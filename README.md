@@ -1,4 +1,4 @@
-# ChlorophyllIndex-CIgreen
+# Estimate Chlorophyll using ChlorophyllIndex and CIgreen
 - Pontificia Universidad Javeriana
 - Departamento de electrónica
 - Proyecto OMICAS
