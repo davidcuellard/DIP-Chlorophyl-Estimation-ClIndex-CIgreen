@@ -11,7 +11,7 @@
 - GRE image: IMG_170805_165709_0138_GRE.TIF
 - NIR image: IMG_170805_165709_0138_NIR.TIF
 
-##Run code
+## `Run code`
 Download repository
 
 Run using:
